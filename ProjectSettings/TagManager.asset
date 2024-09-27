@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Carrot
+  - PosCarrots
+  - PosTomato
+  - PosBasket
+  - ItemSpawner
+  - inventoryItem
+  - PosBroccoli
+  - PosLeak
+  - LeftArrow
+  - RightArrow
+  - UILegumeObject
+  - Character
+  - UIIngObject
+  - LoveParticles
+  - HappyParticles
+  - RecipeBook
+  - CharactersBook
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Outline
+  - Water
+  - UI
+  - MouseHover
+  - Distortion
+  - Outline_thin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cat Market
+* source:	https://sketchfab.com/3d-models/cat-market-bb814de0b37144fe8926b06ad14bef59
+* author:	KristinaBeresten (https://sketchfab.com/KrisBer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cat Market" (https://sketchfab.com/3d-models/cat-market-bb814de0b37144fe8926b06ad14bef59) by KristinaBeresten (https://sketchfab.com/KrisBer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
